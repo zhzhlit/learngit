@@ -4,3 +4,4 @@ Git is good.
 i am branch 'dev'.
 i am branch 'master'
 i am working... to test stash
+add a line

@@ -98,12 +98,12 @@ rebase的目的是使得我们在查看历史提交的变化时更容易，因�
 用git log --graph命令可以看到分支合并图。**
 
 ## 学习资源
-Git教程[廖雪峰]
+* Git教程[廖雪峰]
 https://www.liaoxuefeng.com/wiki/0013739516305929606dd18361248578c67b8067c8c017b000
-动图理解git
+* 动图理解git
 http://git-school.github.io/visualizing-git/#free
-闯关学习git
+* 闯关学习git
 https://learngitbranching.js.org/
-git命令
+* git命令
 https://services.github.com/on-demand/resources/cheatsheets/
 
